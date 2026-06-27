@@ -1,0 +1,6 @@
+{
+  "name": "Siray Music",
+  "description": "Premium glassmorphism offline audio player featuring high-fidelity local playback, equalizer presets, scrollable lyrics, and smart playlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
